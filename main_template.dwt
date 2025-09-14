@@ -1,0 +1,66 @@
+<!--
+  Dreamweaver 8 compatible template (.dwt) - Yon Bua Festival (Professional)
+-->
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <!-- TemplateBeginEditable name="doctitle" -->
+  <title>งานประเพณีโยนบัว</title>
+  <!-- TemplateEndEditable -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="logo">งานประเพณีโยนบัว</div>
+      <nav>
+        <ul>
+          <li><a href="index.html">หน้าแรก</a></li>
+          <li><a href="about.html">เกี่ยวกับ</a></li>
+          <li><a href="contact.html">ติดต่อ</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- TemplateBeginEditable name="hero" -->
+    <section class="hero">
+      <div class="text">
+        <h1>งานประเพณีโยนบัว</h1>
+        <p>สืบสานวัฒนธรรมท้องถิ่น น้อมถวายดอกบัวแด่พระสงฆ์ และร่วมสร้างบุญใหญ่</p>
+      </div>
+      <div class="slider card">
+        <img src="images/hero1.jpg" alt="งานโยนบัว 1">
+      </div>
+    </section>
+    <!-- TemplateEndEditable -->
+
+    <div class="layout">
+      <!-- TemplateBeginEditable name="maincontent" -->
+      <main class="main">
+        <div class="card">
+          <h2>เนื้อหาหลัก</h2>
+          <p>รายละเอียดเนื้อหาของหน้านี้</p>
+        </div>
+      </main>
+      <!-- TemplateEndEditable -->
+
+      <!-- TemplateBeginEditable name="sidebar" -->
+      <aside class="sidebar">
+        <div class="card">
+          <h3>ประกาศ</h3>
+          <p>กำหนดการและข่าวสารเกี่ยวกับงาน</p>
+        </div>
+      </aside>
+      <!-- TemplateEndEditable -->
+    </div>
+
+    <!-- TemplateBeginEditable name="footer" -->
+    <footer>
+      ©2025 งานประเพณีโยนบัว — ติดต่อ: อบต.ตัวอย่าง 012-345-6789
+    </footer>
+    <!-- TemplateEndEditable -->
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
